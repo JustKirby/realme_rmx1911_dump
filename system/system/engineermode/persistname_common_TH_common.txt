@@ -1,0 +1,4 @@
+com.lazada.android
+ctrip.english
+com.mobisystems.office
+com.agoda.mobile.consumer

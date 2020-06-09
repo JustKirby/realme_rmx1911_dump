@@ -1,0 +1,7 @@
+com.fet.fetneticon
+com.fet.fridaywallet
+com.fetself
+com.gohappy.mobileapp
+com.omusic.gPhone
+com.walkgame.ismarttv
+net.fetnet.fetvod
